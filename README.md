@@ -9,5 +9,12 @@ the effective heights of BS and MS equal 20 and 1.5 meters,
 respectively. Assume MS sensitivity equals −95 𝑑𝐵𝑚, the traffic intensity per user equals
 0.025 Erlang and the path loss exponent equals 4
 
-#Inputs
+#My role
+1- Hata function
+
+2-  Cluster Size function
+
+3- No. of Cells function
+
+4- Radius function
 
